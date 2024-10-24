@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Field</Data></Cell>
+			<Cell><Data ss:Type="String">Type</Data></Cell>
+			<Cell><Data ss:Type="String">Null</Data></Cell>
+			<Cell><Data ss:Type="String">Key</Data></Cell>
+			<Cell><Data ss:Type="String">Default</Data></Cell>
+			<Cell><Data ss:Type="String">Extra</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">productId</Data></Cell>
+			<Cell><Data ss:Type="String">bigint</Data></Cell>
+			<Cell><Data ss:Type="String">NO</Data></Cell>
+			<Cell><Data ss:Type="String">PRI</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">manufactureYear</Data></Cell>
+			<Cell><Data ss:Type="String">year</Data></Cell>
+			<Cell><Data ss:Type="String">YES</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">age</Data></Cell>
+			<Cell><Data ss:Type="String">int</Data></Cell>
+			<Cell><Data ss:Type="String">YES</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">rarity</Data></Cell>
+			<Cell><Data ss:Type="String">varchar(10)</Data></Cell>
+			<Cell><Data ss:Type="String">YES</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">materialsUsed</Data></Cell>
+			<Cell><Data ss:Type="String">varchar(30)</Data></Cell>
+			<Cell><Data ss:Type="String">YES</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">restoration</Data></Cell>
+			<Cell><Data ss:Type="String">enum('t','f')</Data></Cell>
+			<Cell><Data ss:Type="String">YES</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String">f</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">startingPrice</Data></Cell>
+			<Cell><Data ss:Type="String">int</Data></Cell>
+			<Cell><Data ss:Type="String">NO</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">latestBid</Data></Cell>
+			<Cell><Data ss:Type="String">int</Data></Cell>
+			<Cell><Data ss:Type="String">NO</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">validUntil</Data></Cell>
+			<Cell><Data ss:Type="String">datetime</Data></Cell>
+			<Cell><Data ss:Type="String">NO</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">authenticationCode</Data></Cell>
+			<Cell><Data ss:Type="String">varchar(20)</Data></Cell>
+			<Cell><Data ss:Type="String">YES</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
