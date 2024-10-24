@@ -1,0 +1,27 @@
+In this zip. file there consists of:
+
+0.Font to install
+> For the aestistic, our presentation file require you to install some font (It not nescessry, but would be great if you install it thought)
+
+1.Conceptual Diagram
+> Overview of our online marketplace system shows the main entities and their relationships within the system. But just for explain to other people the scope of the project.
+
+
+2.Logical Diagram
+> See the structure of our online marketplace system here. Illustrates the various modules, components, and how they interact. Serves as a blueprint for devleoper and designers
+
+
+3.EER Diagram
+> Showcase the entites (such as users, products, orders) and their attributes, along with the relationships between them. Crucial for database administrators.
+
+
+4.Miniproject_1-Group_7_Coding
+>The code that been use to see the result in ppt 
+
+5.Group 7 RDB Miniproject 1 PDF
+>The slide presentation, but in the pdf form
+
+6.Group 7 RDB Miniproject.ppt
+The slide presentation
+
+7. For data whic load from .sql
